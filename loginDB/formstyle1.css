@@ -1,0 +1,21 @@
+#form-div
+{
+	position:relative;
+	left:30%;
+	width:400px;
+	background-color:red;
+	padding:30px
+	
+}
+#form-div div
+{
+margin:10px;
+}
+
+input, select
+{
+	display:block;
+	width:100%;
+	padding:10px;
+	border-radius:4px;
+}
